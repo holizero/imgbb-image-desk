@@ -1,0 +1,15 @@
+{
+  "name": "imgbb-image-desk",
+  "scripts": {
+    "test": "node --test",
+    "start": "node launcher.cjs"
+  },
+  "version": "1.0.1",
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "description": "한글 로컬 ImgBB 이미지 업로더",
+  "type": "module"
+}
